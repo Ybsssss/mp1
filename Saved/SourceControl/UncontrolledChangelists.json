@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/ybs/CS415/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"E:/ybs/CS415/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"E:/ybs/CS415/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"E:/ybs/CS415/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"E:/ybs/CS415/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"E:/ybs/CS415/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/UI/WBP_HealthBar.uasset",
+				"E:/ybs/CS415/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/UI/WBP_Score.uasset",
+				"E:/ybs/CS415/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"E:/ybs/CS415/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"E:/ybs/CS415/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"E:/ybs/CS415/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Blueprints/CameraShake.uasset"
+			]
+		}
+	]
+}
