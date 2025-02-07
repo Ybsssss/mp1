@@ -19366,3 +19366,28 @@ LogConfig: Set CVar [[r.Nanite.Streaming.ReservedResources:1]]
 [2025.02.07-17.09.36:087][296]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 54811.296875
 [2025.02.07-17.09.37:083][299]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.02.07-17.09.37:083][299]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 54811.957031, Update Interval: 354.979095
+[2025.02.07-17.16.19:053][505]LogSlate: Window 'BP_Tunnel' being destroyed
+[2025.02.07-17.16.19:105][505]LogSlate: Window 'BP_Tunnel' being destroyed
+[2025.02.07-17.16.19:422][505]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.02.07-17.16.19:439][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.07-17.16.25:894][505]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.02.07-17.16.25:894][505]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.02.07-17.16.25:894][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.07-17.16.28:403][505]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.02.07-17.16.28:403][505]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.02.07-17.16.28:403][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.07-17.16.30:910][505]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.02.07-17.16.30:910][505]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.02.07-17.16.30:910][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.07-17.16.31:735][505]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.02.07-17.16.31:735][505]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.02.07-17.16.31:735][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.07-17.16.33:789][505]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.02.07-17.16.33:789][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.07-17.16.33:954][505]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.02.07-17.16.33:954][505]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.02.07-17.16.33:954][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.07-17.16.34:822][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.02.07-17.16.34:848][505]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 55229.898438
+[2025.02.07-17.16.35:546][508]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.07-17.16.35:546][508]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 55230.265625, Update Interval: 329.105499
